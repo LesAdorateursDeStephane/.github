@@ -13,7 +13,7 @@ Celle-ci permettra de répertorier tout les repos utiles au stage, et de regroup
 
 4 repos ont été créé pour chaque sujet de stage, vous pourrez les trouver dans la liste des repos de l'organisation, ou ci dessous en cliquant sur les images.
 
-Si vous avez des questions sur le fonctionnement de Github, ou des questions par rapport au stage, n'hésitez pas à contacter @Astrid (Pour les questions générales) et @Ben' (Pour les questions relatives à Github) sur discord.
+Si vous avez des questions sur le fonctionnement de Github, ou des questions par rapport au stage, n'hésitez pas à contacter @Astrid (Pour les questions générales) et  @Ben' (Pour les questions relatives à Github) sur discord.
 
 ## Lien des repos :desktop_computer:
 
