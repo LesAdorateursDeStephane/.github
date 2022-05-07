@@ -12,6 +12,8 @@ Celle-ci permettra de répertorier tout les repos utiles au stage, et de regroup
 
 Si vous avez des questions sur le fonctionnement de Github, ou des questions par rapport au stage, n'hésitez pas à contacter @Astrid (Pour les questions générales) et  @Ben' (Pour les questions relatives à Github) sur discord.
 
+La catégorie "Discussions" est aussi activée dans cette organisation, si vous souhaitez y accéder c'est [par ici](https://github.com/orgs/LesAdorateursDeStephane/discussions/c)
+
 ## Lien des repos :desktop_computer:
 
 
