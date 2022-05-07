@@ -1,9 +1,6 @@
 # Les stagiaires de Stéphane
----
 
 [![forthebadge](https://benjamin-s.fr/images/by-les-stagiaires.svg)](https://forthebadge.com) [![forthebadge](https://benjamin-s.fr/images/for-stephane.svg)](https://sites.google.com/site/stephanegchretien/home)
-
----
 ## Salut les stagiaires 👋
 
 Cette organisation est dédiée aux stagiaires qui ont comme tuteurs Stéphane Chrétien et Astrid Guiochon.
