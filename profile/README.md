@@ -15,18 +15,10 @@ Celle-ci permettra de répertorier tout les repos utiles au stage, et de regroup
 
 Si vous avez des questions sur le fonctionnement de Github, ou des questions par rapport au stage, n'hésitez pas à contacter @Astrid (Pour les questions générales) et @Ben' (Pour les questions relatives à Github) sur discord.
 
-## Lien des repos et leurs ressources :desktop_computer:
+## Lien des repos :desktop_computer:
 
 
-[![forthebadge](https://benjamin-s.fr/images/repo-tweets.svg)](https://github.com/LesAdorateursDeStephane/Stage-TweetsNMF)  
-
-- WIP  
-[![forthebadge](https://benjamin-s.fr/images/repo-mouvement-oculaires.svg)](https://github.com/LesAdorateursDeStephane/Stage-MouvementOculaires)  
-
-- WIP
-[![forthebadge](https://benjamin-s.fr/images/repo-covid.svg)](https://github.com/LesAdorateursDeStephane/Stage-AnalyseCovid)  
-
-- WIP  
-[![forthebadge](https://benjamin-s.fr/images/repo-cross-fit.svg)](https://github.com/LesAdorateursDeStephane/Stage-CrossFitSignature)  
-
-- WIP  
+[![forthebadge](https://benjamin-s.fr/images/repo-tweets.svg)](https://github.com/LesAdorateursDeStephane/Stage-TweetsNMF)
+[![forthebadge](https://benjamin-s.fr/images/repo-mouvement-oculaires.svg)](https://github.com/LesAdorateursDeStephane/Stage-MouvementOculaires)
+[![forthebadge](https://benjamin-s.fr/images/repo-covid.svg)](https://github.com/LesAdorateursDeStephane/Stage-AnalyseCovid)
+[![forthebadge](https://benjamin-s.fr/images/repo-cross-fit.svg)](https://github.com/LesAdorateursDeStephane/Stage-CrossFitSignature)
