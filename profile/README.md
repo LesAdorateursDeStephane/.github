@@ -18,6 +18,6 @@ La catégorie "Discussions" est aussi activée dans cette organisation, si vous 
 
 
 [![forthebadge](https://benjamin-s.fr/images/repo-tweets.svg)](https://github.com/StagiairesMIASHS/Stage-TweetsNMF)
-[![forthebadge](https://benjamin-s.fr/images/repo-mouvement-oculaires.svg)](https://github.com/StagiairesMIASHS/Stage-MouvementOculaires)
+[![forthebadge](https://benjamin-s.fr/images/repo-mouvements-oculaires.svg)](https://github.com/StagiairesMIASHS/Stage-MouvementOculaires)
 [![forthebadge](https://benjamin-s.fr/images/repo-covid.svg)](https://github.com/StagiairesMIASHS/Stage-AnalyseCovid)
 [![forthebadge](https://benjamin-s.fr/images/repo-cross-fit.svg)](https://github.com/StagiairesMIASHS/Stage-CrossFitSignature)
